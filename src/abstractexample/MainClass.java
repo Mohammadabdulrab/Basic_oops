@@ -7,5 +7,6 @@ public class MainClass {
         ConcreteClass concreteClass= new ConcreteClass();
         concreteClass.demo1();
         concreteClass.demo2();
+        concreteClass.demo3();
     }
 }
